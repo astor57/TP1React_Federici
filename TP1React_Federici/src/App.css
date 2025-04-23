@@ -40,3 +40,16 @@
 .read-the-docs {
   color: #888;
 }
+
+.contenedor-flex {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.columna {
+  padding: 20px;
+  border-radius: 10px;
+  width: 100%;
+  max-width: 500px;
+}
